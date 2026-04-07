@@ -1,0 +1,51 @@
+# 🔒 Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 🔧 Virtual environments
+venv/
+env/
+.venv/
+
+# 📦 Package / build
+build/
+dist/
+*.egg-info/
+
+# 🧪 Testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# 📓 Jupyter Notebook
+.ipynb_checkpoints
+
+# 📊 Data files (IMPORTANT for pipelines)
+data/
+*.csv
+*.xlsx
+*.parquet
+
+# 🔑 Environment variables / secrets
+.env
+.env.*
+
+# 🧠 IDE / Editor
+.vscode/
+.idea/
+
+# 🖥️ OS junk
+.DS_Store
+Thumbs.db
+
+# 🪵 Logs
+*.log
+
+# 🧱 Database
+*.db
+*.sqlite3
+
+# 🔥 Temporary files
+*.tmp
+*.bak
