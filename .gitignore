@@ -6,8 +6,9 @@ __pycache__/
 # 🔧 Virtual environments
 venv/
 env/
+.env/
 .venv/
-.game-venv/
+game-venv/
 
 # 📦 Package / build
 build/
