@@ -23,11 +23,6 @@ htmlcov/
 # 📓 Jupyter Notebook
 .ipynb_checkpoints
 
-# 📊 Data files (IMPORTANT for pipelines)
-data/
-*.csv
-*.xlsx
-*.parquet
 
 # 🔑 Environment variables / secrets
 .env
